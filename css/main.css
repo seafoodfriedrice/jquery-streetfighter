@@ -57,3 +57,37 @@ body {
   top: 170px;
   left: 555px;
 }
+
+.instructions {
+  height: 300px;
+  width: 512px;
+  position: absolute;
+  left: 760px;
+  top: 24px;
+}
+
+h1, h2 {
+  font-family: 'Rock Salt', cursive;
+  color: #cc3300;
+  text-shadow: 2px 2px #000;
+}
+h1 {
+  font-size: 3em;
+}
+h2 {
+  font-size: 2em;
+  margin-bottom: -83px;
+  margin-left: -74px;
+}
+.instructions > p {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.3em;
+}
+
+.hover {
+  margin-left: -18px;
+}
+
+.click {
+  padding-left: 42px;
+}
